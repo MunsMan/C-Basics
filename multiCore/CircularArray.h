@@ -1,13 +1,10 @@
-//
-// Created by Hendrik Munske on 20.04.20.
-//
-
 #ifndef CIRCULARARRAY_CIRCULARARRAY_H
 #define CIRCULARARRAY_CIRCULARARRAY_H
 
 #include <stdbool.h>
 
-struct circularArray {
+struct circularArray
+{
     int front;
     int rear;
     int size;

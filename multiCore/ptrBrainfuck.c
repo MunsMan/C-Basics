@@ -1,8 +1,3 @@
-//
-//  Created by Hendrik Munske
-//  Simulation of sharing a struct between two cores
-//
-
 #include <stdlib.h>
 #include <stdio.h>
 
